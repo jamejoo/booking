@@ -3,9 +3,9 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/dddga/bookings/pkg/config"
-	"github.com/dddga/bookings/pkg/models"
-	"github.com/dddga/bookings/pkg/render"
+	"github.com/jamejoo/bookings/pkg/config"
+	"github.com/jamejoo/bookings/pkg/models"
+	"github.com/jamejoo/bookings/pkg/render"
 )
 
 var Repo *Repository

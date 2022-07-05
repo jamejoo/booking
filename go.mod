@@ -1,4 +1,4 @@
-module github.com/dddga/bookings
+module github.com/jamejoo/bookings
 
 go 1.17
 

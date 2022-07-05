@@ -3,10 +3,10 @@ package main
 import (
 	"net/http"
 
-	"github.com/dddga/bookings/pkg/config"
-	"github.com/dddga/bookings/pkg/handlers"
 	"github.com/go-chi/chi/middleware"
 	chi "github.com/go-chi/chi/v5"
+	"github.com/jamejoo/bookings/pkg/config"
+	"github.com/jamejoo/bookings/pkg/handlers"
 )
 
 func routes(app *config.AppConfig) http.Handler {

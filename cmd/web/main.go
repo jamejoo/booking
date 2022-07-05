@@ -6,9 +6,9 @@ import (
 	"time"
 
 	scs "github.com/alexedwards/scs/v2"
-	"github.com/dddga/bookings/pkg/config"
-	"github.com/dddga/bookings/pkg/handlers"
-	"github.com/dddga/bookings/pkg/render"
+	"github.com/jamejoo/bookings/pkg/config"
+	"github.com/jamejoo/bookings/pkg/handlers"
+	"github.com/jamejoo/bookings/pkg/render"
 )
 
 var app config.AppConfig
